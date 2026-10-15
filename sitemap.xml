@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://revivalrenovations.smartrautomation.ca/interior-design/</loc>
+    <lastmod>2026-10-15T17:10:16.741Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://revivalrenovations.smartrautomation.ca/about/</loc>
+    <lastmod>2026-10-15T17:10:16.673Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://revivalrenovations.smartrautomation.ca/home-staging/</loc>
-    <lastmod>2026-10-15T17:10:06.063Z</lastmod>
+    <lastmod>2026-10-15T17:10:14.686Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -18,11 +28,6 @@
   <url>
     <loc>https://revivalrenovations.smartrautomation.ca/contactus/</loc>
     <lastmod>2026-10-15T17:09:33.001Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://revivalrenovations.smartrautomation.ca/about/</loc>
-    <lastmod>2026-10-15T17:09:24.730Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -48,11 +53,6 @@
   <url>
     <loc>https://revivalrenovations.smartrautomation.ca/oakville/</loc>
     <lastmod>2026-10-15T17:03:11.442Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://revivalrenovations.smartrautomation.ca/interior-design/</loc>
-    <lastmod>2026-10-15T17:03:03.422Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

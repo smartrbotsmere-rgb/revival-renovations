@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://smartrbotsmere-rgb.github.io/revival-renovations/</loc>
+    <loc>https://revivalrenovations.smartrautomation.ca/page/</loc>
+    <lastmod>2026-10-15T16:48:38.417Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://revivalrenovations.smartrautomation.ca/</loc>
     <lastmod>2026-10-14T00:45:46.186Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://smartrbotsmere-rgb.github.io/revival-renovations/thanks/</loc>
+    <loc>https://revivalrenovations.smartrautomation.ca/thanks/</loc>
     <lastmod>2026-10-13T20:31:01.468Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>

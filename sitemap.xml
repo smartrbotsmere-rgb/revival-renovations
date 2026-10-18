@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://revivalrenovations.smartrautomation.ca/event-planning/</loc>
+    <lastmod>2026-10-18T00:29:02.420Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://revivalrenovations.smartrautomation.ca/airbnb-staging/</loc>
     <lastmod>2026-10-18T00:28:56.415Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -28,11 +33,6 @@
   <url>
     <loc>https://revivalrenovations.smartrautomation.ca/projects/</loc>
     <lastmod>2026-10-18T00:28:21.478Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://revivalrenovations.smartrautomation.ca/event-planning/</loc>
-    <lastmod>2026-10-18T00:28:14.525Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
